@@ -53,14 +53,25 @@ body {
 div {
 	border: 1px solid Chocolate;
 }
+/* End of Reset */
+
+/* Start of Custom Styles */
+
+.content {
+    padding: 0 15px;
+}
 
 /* Navigation Section */
-.top-navigation {
-	background-color: #fff;
+.top-navigation .links {
+	float: right;
 }
 
 .top-navigation > .content {
 	width: 970px;
 	height: 70px;
 	margin: 0 auto;
+}
+
+.top-navigation .logo {
+	height: 70px;
 }
