@@ -66,6 +66,11 @@ div {
 /* Navigation Section */
 .top-navigation .links {
 	float: right;
+	font-family: 'Roboto', sans-serif;
+    color: #838994;
+    font-size: 16px;
+    margin-top: 25px;
+    -webkit-font-smoothing: antialiased;
 }
 
 .top-navigation .links li {
