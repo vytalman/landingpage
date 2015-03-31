@@ -148,3 +148,8 @@ div {
 	margin: 0 auto;
 	margin-top: 1.563rem;
 }
+
+button.big-button:hover {
+	background-color: #D9400E;
+	cursor: pointer;
+}
