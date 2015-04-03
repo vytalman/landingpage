@@ -153,3 +153,32 @@ button.big-button:hover {
 	background-color: #D9400E;
 	cursor: pointer;
 }
+
+.content {
+  padding: 0 0.938rem;
+  margin: 0 auto;
+  min-width: 37.5rem;
+}
+
+.cases .content {
+	color: #1d1e21;
+	margin-top: 7.875rem;
+	text-align: center;
+}
+
+.cases {
+	background-color: #fff;
+}
+.cases .devices li {
+	display: inline-block;
+}
+
+h2 {
+	display: block;
+  	font-size: 2.7512rem;
+  	font-weight: 300;
+  	-webkit-margin-before: 0.83em;
+  	-webkit-margin-after: 0.83em;
+  	-webkit-margin-start: 0px;
+  	-webkit-margin-end: 0px;
+}
