@@ -244,6 +244,8 @@ h3 {
 
 .social {
 	background-color: #fff;
+	overflow: auto;
+	padding-bottom: 9.375rem;
 	text-align: center;
 }
 
@@ -262,3 +264,16 @@ h3 {
   color: #55acee;
 }
 
+.social .facebook {
+	color: #3B5998;
+}
+
+.social .instagram {
+	color: #3f729b;
+}
+
+.social .copy {
+	font-size: 0.9rem;
+	font-weight: 300;
+	color: #838994;
+}
